@@ -45,7 +45,7 @@ print("Mark: " + str(int(percent)) + '%')
 if percent >= 50:
     print('Nice! You passed!')
 else:
-    print('Better luck next time')
+    print('Better luck next time!')
 
 
 
